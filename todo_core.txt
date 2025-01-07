@@ -1,0 +1,36 @@
+- [ ] verzó kezelés
+  - [ ] snapshot fájlokról
+  - [ ] visszaváltás snapshotokra
+  - [ ] snapshot mappákról
+  - [ ] visszaváltás snapshot mappákra
+  - [ ] snapshotok törlése
+  - [ ] snapshot mappák törlése
+  - [ ] snapshotok listázása
+  - [ ] snapshot mappák listázása
+  - [ ] auto snapshot lehetőség (beállítás mint: minden fájl változás után/naponta egszer...)
+- [ ] backup kezelés
+ - [ ] backup fájlokról
+ - [ ] visszaváltás backupokra
+ - [ ] backup mappákról
+ - [ ] visszaváltás backup mappákra
+ - [ ] backupok törlése
+ - [ ] backup mappák törlése
+ - [ ] nagy méretű backupok kezelése
+ - [ ] auto backup lehetőség (beállítás mint: minden fájl változás után/naponta egszer...)
+- [ ] mappa/drive kiválasztása auto verzió/backup kezeléshez
+- [ ] mappa/fájl/drive tükrözés
+ - [ ] mappába tükrözés
+ - [ ] virtuális meghajtóra tükrözés
+ - [ ] cloud drive-ra tükrözés (csak az eredeti MÁSOLATÁT, és CSAK feltöltés/backup NEM live sync)
+- [ ] NAS támogatás
+ - [ ] szinkronizálás
+ - [ ] backup
+ - [ ] snapshot
+ - [ ] tükrözés
+ - [ ] cloud támogatás
+ - [ ] NAS-on futó alkalmazás (fájlszerkesztés)
+ - [ ] virtuális meghajtó
+- [ ] Online fájl/mappa megosztás
+ - [ ] link generálás
+ - [ ] jelszóval védett link
+ - [ ] lejárati idő
