@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barrel Roll Core", "Barrel Roll Core\Barrel Roll Core.csproj", "{C432C580-1516-498A-AD41-4285BEDEBDA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barrel Roll CLI Test", "Barrel Roll CLI Test\Barrel Roll CLI Test.csproj", "{78454818-8935-4343-9AFC-7B7BB7952F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barrel Roll GUI", "Barrel Roll GUI\Barrel Roll GUI.csproj", "{3463BBD3-450E-4221-B084-91B8463D9B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C432C580-1516-498A-AD41-4285BEDEBDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C432C580-1516-498A-AD41-4285BEDEBDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C432C580-1516-498A-AD41-4285BEDEBDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C432C580-1516-498A-AD41-4285BEDEBDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78454818-8935-4343-9AFC-7B7BB7952F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78454818-8935-4343-9AFC-7B7BB7952F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78454818-8935-4343-9AFC-7B7BB7952F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78454818-8935-4343-9AFC-7B7BB7952F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3463BBD3-450E-4221-B084-91B8463D9B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3463BBD3-450E-4221-B084-91B8463D9B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3463BBD3-450E-4221-B084-91B8463D9B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3463BBD3-450E-4221-B084-91B8463D9B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A90CACE-43BD-4930-9964-404DFA0C2615}
+	EndGlobalSection
+EndGlobal
